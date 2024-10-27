@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=srinivasrepo&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=srinivasvadige&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### About Me:    
 Skilled Full-stack Developer with over 5+ years of hands-on experience in designing, developing, and implementing applications and solutions using various technologies with a demonstrated track record of success in the computer software industry. Proficient in Spring Boot, Spring batch, React js, Angular 8, Java JSR-352 framework, Python, MEAN & MERN Stack, ASP.NET WEB API, Microsoft SQL Server DB, Control-M maintenance, Shell scripting. Actively seeking a challenging role as a Full Stack Developer to continue honing skills and contribute to cutting-edge projects.
@@ -27,7 +27,7 @@ Join me on LinkedIn:
 ### Working on: 🚀
 
 - Tweaking this README for optimal engagement 
-- [DSA Algorithms](https://github.com/srinivasrepo/dsa-programs) 
+- [DSA Algorithms](https://github.com/srinivasvadige/dsa-programs) 
 
 
 ## Languages and Tools 
@@ -94,7 +94,7 @@ Join me on LinkedIn:
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=srinivasrepo&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=srinivasvadige&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -104,14 +104,14 @@ Join me on LinkedIn:
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=srinivasrepo&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasrepo&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=srinivasvadige&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasvadige&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=srinivasrepo&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=srinivasvadige&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 
