@@ -4,7 +4,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=srinivasrepo&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### About Me:    
-Skilled Full-stack Developer with over 4+ years of hands-on experience in designing, developing, and implementing applications and solutions using a range of technologies with a demonstrated track record of success in the computer software industry. Proficient in Spring Boot, Spring batch, React js, Angular 8, Java JSR-352 framework, Python, MEAN & MERN Stack, ASP.NET WEB API, Microsoft SQL Server DB, Control-M maintenance, Shell scripting. Actively seeking a challenging role as a Full Stack Developer to continue honing skills and contribute to cutting-edge projects.
+Skilled Full-stack Developer with over 5+ years of hands-on experience in designing, developing, and implementing applications and solutions using various technologies with a demonstrated track record of success in the computer software industry. Proficient in Spring Boot, Spring batch, React js, Angular 8, Java JSR-352 framework, Python, MEAN & MERN Stack, ASP.NET WEB API, Microsoft SQL Server DB, Control-M maintenance, Shell scripting. Actively seeking a challenging role as a Full Stack Developer to continue honing skills and contribute to cutting-edge projects.
 
 During my leisure time, you'll find me honing my problem-solving skills on LeetCode and participating in CTF challenges.
       
