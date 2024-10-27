@@ -114,16 +114,32 @@ Join me on LinkedIn:
   <img src="https://komarev.com/ghpvc/?username=srinivasvadige&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+</br>
+</br>
 
-<div> </div>
+#SNK
 
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
+Generates a snake game from a github user contributions graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+</picture>
+<!--
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-  
-<p>If you want to create a good Github profile readme.md file -> use <a href="https://gprm.itsvg.in/">GPRM</a>  </p>
+--> 
+</br>
+<p>If you want to create a good Github profile readme.md file like this -> use <a href="https://gprm.itsvg.in/">GPRM</a>  </p>
 
 <!--
 ### How to reach me :mailbox:
