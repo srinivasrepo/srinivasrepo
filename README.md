@@ -12,7 +12,7 @@ During my leisure time, you'll find me honing my problem-solving skills on LeetC
 ### Social media: 📡    
 Join me on LinkedIn:
 
-<a href="https://www.linkedin.com/in/srinivas-vadige/">
+<a href="https://www.linkedin.com/in/srinivasvadige/">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn Profile"  alt="LinkedIn Profile" width="55" height="55"/>
 </a>
 
@@ -20,7 +20,7 @@ Join me on LinkedIn:
 
 ## Competitions: 🥇
 
-### Algorithms [LeetCode](https://leetcode.com/srinivas_vadige/)
+### Algorithms [LeetCode](https://leetcode.com/srinivasvadige/)
  
 
 
