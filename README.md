@@ -26,7 +26,6 @@ Join me on LinkedIn:
 
 ### Working on: 🚀
 
-- Tweaking this README for optimal engagement 
 - [DSA Algorithms](https://github.com/srinivasvadige/dsa-programs) 
 
 
